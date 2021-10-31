@@ -132,6 +132,7 @@ li {
 .main-content {
     background: rgb(231, 227, 227);
     width: 740px;
+    margin-left: 300px;
 }
 
 .main-content p {
